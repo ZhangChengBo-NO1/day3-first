@@ -1,0 +1,14 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.6.0
+Flask-Migrate==4.0.5
+Flask-Cors==4.0.0
+SQLAlchemy==2.0.23
+Werkzeug==3.0.1
+requests==2.31.0
+redis==5.0.1
+celery==5.3.4
+python-dotenv==1.0.0
+marshmallow==3.20.1
+APScheduler==3.10.4
+gunicorn==21.2.0
